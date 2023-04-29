@@ -1,0 +1,1057 @@
+@media only screen and (max-width: 1900px) {
+    .start-course .image-d::after {
+        right: -40px;
+        top: -170px;
+        background-size: 350px 410px;
+        width: 380px;
+        height: 430px;
+    }
+
+    .start-course .study-svg {
+        right: -80px;
+    }
+
+    .start-course .react-svg {
+        left: -70px;
+    }
+
+    .unlimite-div .card-div::after {
+        right: -110px;
+        top: -160px;
+        background-size: 240px 350px;
+        width: 170px;
+        height: 180px;
+    }
+
+    .slow-stready .top-l
+    {
+        max-width: 340px;
+    }
+
+}
+
+@media only screen and (max-width: 1800px)
+{
+    .member-ship::after {
+        right: -50px;
+        top: -210px;
+        background-size: 340px 340px;
+        width: 300px;
+        height: 310px;
+    }
+
+    .check-out-div .one-l
+    {
+        max-width: 280px;
+    }
+
+    .ask-que-sec .line-e
+    {
+        max-width: 290px;
+    }
+}
+
+@media only screen and (max-width: 1600px) {
+    .container {
+        max-width: 1220px;
+    }
+
+    .start-course {
+        padding: 80px 0 60px 0;
+    }
+
+    .start-course .image-d img {
+        max-width: 500px;
+    }
+
+    .start-course .image-d {
+        text-align: center;
+    }
+
+    .main-title {
+        font-size: 42px;
+    }
+
+    .start-course .details .line-text::after {
+        background-size: 280px 14px;
+        width: 280px;
+    }
+
+    .start-course .study-svg {
+        max-width: 60px;
+        right: -30px;
+        top: 20%;
+    }
+
+    .start-course .plane-svg {
+        max-width: 50px;
+    }
+
+    .start-course .react-svg {
+        top: 30px;
+        left: -40px;
+        max-width: 70px;
+    }
+
+    .start-course .image-d::after {
+        right: -30px;
+        top: -210px;
+        background-size: 260px 380px;
+        width: 260px;
+        height: 630px;
+    }
+
+    .top-category .cardwrpp .card h3
+    {
+        font-size: 30px;
+        height: 75px;
+    }
+    .top-category .cardwrpp .card img
+    {
+        max-height: 130px;
+    }
+    .top-category .cardwrpp .card
+    {
+        padding: 22px;
+    }
+    .top-category
+    {
+        padding: 30px 0;
+    }
+
+    .top-category .cardwrpp, .new-upload-c .courses-card-wrp
+    {
+        margin-top: 40px;
+    }
+    .new-upload-c, .feed-student {
+        padding: 60px 0;
+    }
+
+    .master-skills
+    {
+        padding-top: 80px;
+    }
+
+    .your-journey .you-tube-king
+    {
+        margin-top: 0;
+    }
+
+    .your-journey
+    {
+        padding-top: 0;
+    }
+
+    .startup-footer .form-control
+    {
+        max-width: 180px;
+    }
+
+    .startup-footer .s-btn
+    {
+        font-size: 12px;
+    }
+
+    .first-sec .line-one
+    {
+        top: -180px;
+        max-width: 270px;
+    }
+    .first-sec .line-two, .trending-sec .line-two
+    {
+        top: 0;
+        max-width: 250px;
+    }
+
+    .trending-sec .line-one
+    {
+        width: 309px;
+    }
+    .member-download
+    {
+        padding-top: 0;
+    }
+
+    .login .right-cont
+    {
+        margin-left: 120px;
+    }
+    .login .t-l-line
+    {
+        max-width: 390px;
+    }
+    .login .r-t-line
+    {
+        max-width: 200px;
+    }
+    .login .right-b-line
+    {
+        max-width: 320px;
+    }
+    .login .slider-img img
+    {
+        max-width: 480px;
+    }
+    .login .react-svg
+    {
+        max-width: 60px;
+    }
+    .login .carousel
+    {
+        padding-right: 0;
+    }
+
+    .login .right-cont .file-svg
+    {
+        left: -80px;
+    }
+    .video-wrpp {
+        padding: 120px 0 60px 0;
+    }
+
+    .web-img
+    {
+        right: 0;
+    }
+    .rocket-img
+    {
+        left: 0;
+    }
+
+    .unlimite-div .boy-img img
+    {
+        max-width: 320px;
+    }
+
+    .search-for-help .line-e
+    {
+        max-width: 300px;
+    }
+
+    .video-wrpp .form-svg
+    {
+        right: 10px;
+        bottom: 20%;
+    }
+    .video-wrpp .line-e
+    {
+        max-width: 240px;
+    }
+
+    .slow-stready .react-svg, .slow-stready .card-svg
+    {
+        max-width: 60px;
+    }
+
+    .all-c-tab .sec-line
+    {
+        max-width: 250px;
+        top: 0;
+    }
+
+}
+
+@media only screen and (max-width: 1400px) {
+    .start-course .image-d::after, .unlimite-div .card-div::after, .member-ship::after {
+        content: none;
+    }
+    .trending-sec .line-one, .your-journey .details .absolute, .first-sec .line-two, .trending-sec .line-two, .first-sec .line-one, .trending-sec .line-one, .login .t-l-line, .login .r-t-line, .login .right-b-line, .web-img, .rocket-img, .check-out-div .react-svg, .faq-top .react-svg, .ask-que-sec .line-e, .profile-edit .line-e, .profile-edit .react-svg, .video-wrpp .line-e, .video-wrpp .form-svg, .video-wrpp .react-svg, .slow-stready .react-svg, .slow-stready .card-svg
+    {
+        display: none;
+    }
+    .unlimite-div .boy-img, .unlimite-line img, .check-out-div .one-l, .search-for-help .line-e, .all-c-tab .sec-line, .slow-stready .top-l
+    {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    .start-course .react-svg {
+        top: 10px;
+        left: 0;
+    }
+
+    .start-course .study-svg {
+        right: 0;
+        top: 20%;
+    }
+    .new-upload-c .play-update p
+    {
+        font-size: 14px;
+    }
+    .new-upload-c .play-update .play-btn
+    {
+        padding: 8px 18px;
+    }
+    .your-journey .you-tube-king img {
+        margin-right: 14px;
+        max-width: 90px;
+    }
+    .all-c-tab {
+        padding: 0px 0 40px 0;
+    }
+
+    .new-upload-c.all-c-page
+    {
+        padding-top: 20px;
+    }
+    .all-c-tab .nav-pills .nav-link
+    {
+        font-size: 16px;    
+        padding: 8px 13px;
+    }
+
+    .all-c-tab .drop-down select
+    {
+        padding: 8px 32px 8px 12px;
+        font-size: 16px;
+    }
+
+    .pagination
+    {
+        padding-top: 20px;
+    }
+
+    .all-c-tab .drop-down select
+    {
+        max-width: 232px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .login .right-cont
+    {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .login .right-cont .file-svg
+    {
+        left: 0;
+        top: -110px;
+    }
+}
+
+
+/* @media only screen and (min-width: 991px) and (max-width: 1285px) {
+    .navbar-expand-lg .navbar-nav {
+        gap: 0;
+    }
+
+    .navbar .btn-div .bg-btn {
+        font-size: 15px;
+        padding: 10px 14px;
+    }
+
+    .navbar .btn-div .link-btn {
+        font-size: 15px;
+        padding: 10px 14px;
+    }
+
+} */
+
+@media only screen and (max-width: 991px) {
+
+    .navbar
+    {
+        height: 90px;
+    }
+
+    .navbar .navbar-collapse {
+        position: fixed;
+        top: 90px;
+        left: 0;
+        background: #fff;
+        right: 0;
+        z-index: 999;
+        padding: 0 12px;
+    }
+
+    .navbar .navbar-toggler {
+        position: fixed;
+        right: 10px;
+        top: 30px;
+        border: none;
+        z-index: 999;
+    }
+
+    .navbar .btn-div {
+        position: fixed;
+        right: 70px;
+        top: 37px;
+    }
+
+    .navbar .btn-div .bg-btn {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+
+    .navbar .btn-div .link-btn {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link:after {
+        content: none;
+    }
+
+    .navbar-expand-lg .navbar-nav {
+        gap: 10px;
+    }
+
+    .navbar .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .start-course .react-svg,
+    .start-course .study-svg,
+    .start-course .plane-svg {
+        display: none;
+    }
+
+    .start-course .details .line-text::after {
+        content: none;
+    }
+
+    .start-course .details {
+        max-width: 800px;
+        margin-left: 40px;
+    }
+
+    .member-download .cardd {
+        margin-bottom: 25px;
+    }
+
+    .top-category {
+        padding: 30px 0;
+    }
+
+    .top-category .cardwrpp .card h3
+    {
+        font-size: 28px;
+    }
+
+    .new-upload-c .t-btn
+    {
+        float: none;
+    }
+    .new-upload-c .small-disc
+    {
+        margin-bottom: 50px;
+    }
+    .new-upload-c .main-title
+    {
+        margin-bottom: 14px;
+    }
+    .master-skills .img-div img
+    {
+        display: none;
+    }
+    .master-skills .card-wrpp
+    {
+        margin: 30px 0;
+    }
+    .your-journey .image-divv img
+    {
+        max-width: 440px;
+    }
+
+    .your-journey .image-divv
+    {
+        text-align: center;
+        margin-top: 26px;
+    }
+    .download-app .center-img img
+    {
+        max-width: 250px;
+    }
+
+    .download-app .center-img
+    {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    
+    .feed-student .slider-img img
+    {
+        max-width: 330px;
+        margin: auto;
+    }
+    .feed-student .slider-txt
+    {
+        margin-bottom: 20px;
+    }
+
+    .login
+    {
+        display: block;
+    }
+    .login .left-color
+    {
+        width: 100%;
+    }
+    .login .carousel
+    {
+        max-width: 100%;
+    }
+    .l-header .btn-div .link-btn
+    {
+        background-color: #fff;
+        border-radius: 12px;
+    }
+    .l-header .navbar-nav .nav-link.white
+    {
+        color: #808080;
+    }
+
+    .l-header .navbar-toggler
+    {
+        background-color: #fff;
+    }
+
+    .login .right-div
+    {
+        padding: 60px 15px;
+    }
+
+    .login .right-cont
+    {
+        max-width: 360px;
+        margin: auto;
+    }
+
+    .login .right-cont .file-svg
+    {
+        display: none;
+    }
+
+    
+    .video-wrpp .other-video .running-wrpp
+    {
+        max-height: 100%;
+    }
+
+    .slow-stready .bgg
+    {
+        padding: 26px;
+    }
+
+    .have-q
+    {
+        padding: 100px 0 60px 0;
+    }
+
+    .have-q .image-div
+    {
+        text-align: center;
+    }
+
+    .have-q .image-div img
+    {
+        max-width: 400px;
+        margin: auto;
+    }
+
+    .have-q .form-div
+    {
+        margin: auto;
+    }
+
+    .reach-out
+    {
+        padding: 30px 0;
+    }
+    .reach-out .card-wrpp {
+        margin-top: 36px;
+    }
+
+    .follow-social {
+        padding: 50px 0;
+    }
+
+    .scrolling-wrpp .item-div
+    {
+        display: none;
+    }
+
+    .terms-service {
+        padding: 110px 0 60px 0;
+    }
+
+    .scrolling-wrpp {
+        margin-top: 20px;
+    }
+
+    .terms-service h2
+    {
+        font-size: 32px;
+    }
+    .scrolling-wrpp .details-wpp h4
+    {
+        font-size: 26px;    
+        margin-top: 30px;
+        margin-bottom: 14px;
+    }
+    .terms-service.privacy .details-wpp .big-font
+    {
+        font-size: 18px;
+    }
+
+    .about-first
+    {
+        padding: 120px 0 50px 0;
+    }
+
+    .about-first .image-class
+    {
+        text-align: center;
+        margin-bottom: 26px;
+    }
+    .about-first.img-rit
+    {
+        padding-top: 0;
+    }
+
+    .about-first.img-rit .image-class
+    {
+        text-align: center;
+        margin-bottom: 0;
+        margin-top: 26px;
+    }
+
+    .our-future .card-wrp
+    {
+        margin-top: 30px;
+    }
+
+    .our-future
+    {
+        padding: 50px 0;
+    }
+    .about-first.pad
+    {
+        padding-top: 0;
+    }
+
+    .download-app-ios .main-img
+    {
+        max-width: 540px;
+    }
+
+    .unlimite-div
+    {
+        padding: 126px 0 40px 0;
+    }
+    .unlimite-div .card-div
+    {
+        margin-top: 40px;
+    }
+    .unlimite-div .details h2
+    {
+        font-size: 50px;
+    }
+    .unlimite-div .details p
+    {
+        font-size: 22px;
+        max-width: 100%;
+    }
+
+    .check-out-div {
+        padding: 110px 0 50px 0;
+    }
+
+    .check-out-div h2
+    {
+        margin-bottom: 20px;
+    }
+    .member-ship
+    {
+        margin: auto;
+        margin-top: 30px;
+    }
+
+    .all-c-tab .nav-pills
+    {
+        display: block;
+    }
+    .all-c-tab .drop-down select
+    {
+        margin-top: 10px;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 768px) 
+{
+    .top-category .cardwrpp .card
+    {
+        max-width: 340px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .new-upload-c .coursescard
+    {
+        max-width: 320px;
+        margin: auto;
+        margin-top: 26px;
+    }
+    .copy-right .f-p
+    {
+        text-align: left;
+    }
+    .n-p-btn
+    {
+        margin-top: 20px;
+    }
+
+    .start-course .main-title
+    {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    .start-course .small-title {
+        margin-bottom: 10px;
+    }
+
+    .theme-btn
+    {
+        font-size: 14px;
+        padding: 16px 26px;
+    }
+    .member-download .cardd
+    {
+        padding: 12px;
+    }
+
+    .member-download
+    {
+        padding-bottom: 0;
+    }
+    .member-download .cardd img
+    {
+        max-width: 60px;
+    }
+    .new-upload-c.first-sec
+    {
+        padding-top: 0;
+    }
+
+    .small-title
+    {
+        font-size: 17px;
+    }
+    .top-category .main-title, .new-upload-c .main-title, .master-skills .text-div .main-title, .your-journey .main-title, .download-app .main-title, .feed-student .main-title, .have-q .main-title, .reach-out .main-title, .follow-social .main-title, .about-first .main-title, .about-first .main-title, .our-future .main-title, .about-first .main-title, .review-play .main-title, .review-play .play-wrpp h4, .unlimite-div .details h2, .check-out-div h2
+    {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+    .top-category .small-disc, .new-upload-c .small-disc, .master-skills .text-div .small-disc, .unlimite-div .details p
+    {
+        font-size: 15px;
+    }
+
+    .your-journey .you-tube-king h5
+    {
+        font-size: 22px;        
+    }
+
+    .your-journey .you-tube-king h5 svg
+    {
+        max-width: 30px;
+    }
+    .your-journey .you-tube-king img
+    {
+        max-width: 70px;
+    }
+    .download-app
+    {
+        padding: 30px 0;
+    }
+
+    .feed-student .slider-txt h5
+    {
+        font-size: 23px;
+        margin-bottom: 20px;
+    }
+    .master-skills .card-wrpp .s-card img
+    {
+        max-width: 60px;
+        margin-right: 10px;
+    }
+    .master-skills .card-wrpp .s-card
+    {
+        padding: 12px;
+    }
+
+    .video-wrpp .player_video
+    {
+        height: 360px;
+    }
+    .video-wrpp .other-video
+    {
+        margin-top: 40px;
+        max-width: 100%;
+    }
+    #player .player_controls .left-controls
+    {
+        padding: 7px 10px;
+    }
+    #player:hover .video-title {
+        bottom: 60px;
+    }
+
+    .video-wrpp .video-title
+    {
+        padding: 8px 12px;
+    }
+    .video-wrpp .video-title h5
+    {
+        font-size: 14px;
+    }    
+    
+    .slow-stready .image-div img
+    {
+        height: 400px;
+        width: auto !important;
+    }
+
+    .slow-stready .image-div
+    {
+        text-align: center;
+        margin-top: 60px;
+    }
+
+    .reach-out .card-wrpp .card-div
+    {
+        max-width: 300px;
+        margin: auto;
+        margin-bottom: 12px;
+    }
+
+    .have-q
+    {
+        padding: 80px 0 20px 0;
+    }
+
+    .issue-one {
+        padding: 90px 0 60px 0;
+    }
+
+    .issue-one .content img
+    {
+        max-width: 500px;
+    }
+    .issue-one .content h2
+    {
+        font-size: 30px;
+    }
+    .issue-one .content p
+    {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+
+    .download-app-ios h2
+    {
+        font-size: 38px;
+        margin-bottom: 30px;
+    }
+    .review-play {
+        padding: 40px 0;
+    }
+    .review-play .play-wrpp
+    {
+        margin-top: 30px;
+    }
+
+    .review-wrpp
+    {
+        display: block;
+    }
+    .review-wrpp .text-div
+    {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .app-ios-div img
+    {
+        max-width: 150px;
+    }
+    .app-ios-div img
+    {
+        margin-right: 8px;
+    }
+    
+
+}
+
+
+@media only screen and (max-width: 600px) {
+    
+    .navbar .navbar-brand .smallscreen {
+        display: block;
+    }
+
+    .navbar .navbar-brand .fullscreen {
+        display: none;
+    }
+
+    .navbar .btn-div .bg-btn,
+    .navbar .btn-div .link-btn {
+        font-size: 12px;
+        padding: 8px 12px;
+    }
+
+    .l-header .navbar-brand .smallscreen
+    {
+        filter: brightness(10);
+    }
+    
+    .l-header.sticky .navbar-brand .smallscreen
+    {
+        filter: none;
+    }
+
+    .login .slider-img img
+    {
+        max-width: 100%;
+    }
+    .login .carousel .carousel-item h5
+    {
+        margin-top: 10px;
+    }
+
+    .login .right-cont h2
+    {
+        font-size: 30px;
+    }
+    .login .right-cont form {
+        margin: 25px 0;
+    }
+    #player .progress-range
+    {
+        min-width: 40%;
+        max-width: 40%;
+    }
+    .video-wrpp .other-video {
+        margin-top: 20px;
+    }
+    .all-c-tab .nav-pills .nav-link
+    {
+        font-size: 15px;
+        padding: 7px 10px;
+        margin-right: 10px;
+    }
+    .all-c-tab .drop-down select
+    {
+        max-width: 218px;
+        padding: 8px 31px 8px 12px;
+    }
+    .slow-stready .image-div
+    {
+        margin-top: 0;
+    }
+    .ask-que-sec
+    {
+        padding-top: 0;
+    }
+    .faq-title
+    {
+        text-align: center;
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    .asq-button
+    {
+        height: 60px;
+    }
+    .search-for-help
+    {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .slow-stready .text-div h3
+    {
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+    .issue-one .content img
+    {
+        max-width: 100%;
+    }
+    .download-app-ios .main-img
+    {
+        max-width: 100%;
+    }
+    .unlimite-div .card-div
+    {
+        padding: 20px;
+    }
+    .unlimite-div .card-div h5
+    {
+        font-size: 26px;
+    }
+    .unlimite-div .card-div .apply-c-btn
+    {
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    .theme-btn.white
+    {
+        margin-top: 25px;
+    }
+    .unlimite-div .card-div
+    {
+        margin-top: 10px;
+    }
+    .check-out-div .select-method .fill-form
+    {
+        padding: 10px;
+    }
+    .member-ship
+    {
+        padding: 14px;
+    }
+    .member-ship h4
+    {
+        font-size: 19px;
+    }
+    .member-ship p
+    {
+        font-size: 14px;
+    }
+    .member-ship h5
+    {
+        font-size: 15px;
+    }
+
+    .check-out-div .left-box .text-div p svg {
+        margin-left: 0;
+        max-width: 20px;
+    }
+
+    .check-out-div .left-box .text-div p
+    {
+        font-size: 11px;
+    }
+    .check-out-div .left-box .text-div h5
+    {
+        font-size: 18px;
+    }
+}
+
+
+@media only screen and (max-width: 575px)
+{
+    .search-for-help .search-card
+    {
+        max-width: 340px;
+        margin: auto;
+        margin-bottom: 16px;
+    }
+}
